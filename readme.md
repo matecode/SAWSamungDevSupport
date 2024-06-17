@@ -8,11 +8,12 @@ The problem describes as follows:
 
 Emulator:
 Find App in App List -> Permissions -> Advanced -> Display over other apps -> Allow
-![Screenshot_20240617_111714](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/653f04b8-7a8c-44c0-ba99-b63c1797a43e)
-![Screenshot_20240617_111815](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/b57f962d-cd86-4daa-ae9e-d202b6a67d21)
+![Screenshot_20240617_111714](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/c1b12cfd-066b-431f-a101-1e075fc7d1b4)
+![Screenshot_20240617_111815](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/335970ff-c7a3-44d0-ba1f-69a4e59b997d)
+
 
 In Advanced Section you can find the permission to allow
-![Screenshot_20240617_111830](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/c7736ae1-773a-4d76-8fc2-7cb2f2284188)
+![Screenshot_20240617_111830](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/f523c44f-9f79-40bf-ae80-769444c65dd6)
 
 Samsung Galaxy Watch 5 Pro with OneUI 5.0 Watch
 ![Screenshot_20240617_122304_settings](https://github.com/matecode/SAWSamungDevSupport/assets/3225274/b08bf962-c3a6-44e7-870a-73d6f048be03)
