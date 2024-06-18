@@ -8,7 +8,9 @@ The problem describes as follows:
 
 Emulator:
 Find App in App List -> Permissions -> Advanced -> Display over other apps -> Allow
-![Screenshot_20240617_111714.png](screenshots%2FScreenshot_20240617_111714.png)
+
+![Screenshot1](/screenshots/Screenshot_20240617_111714.png)
+
 ![Screenshot_20240617_111815.png](screenshots%2FScreenshot_20240617_111815.png)
 
 In Advanced Section you can find the permission to allow
